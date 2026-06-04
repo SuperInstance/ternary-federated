@@ -1,0 +1,11 @@
+[package]
+name = "ternary-federated"
+version = "0.1.0"
+edition = "2021"
+description = "Federated learning for ternary agents — multiple populations sharing strategy insights without sharing raw data"
+license = "MIT"
+repository = "https://github.com/SuperInstance/ternary-federated"
+keywords = ["ternary", "federated-learning", "evolution", "privacy"]
+categories = ["algorithms", "science"]
+
+[dev-dependencies]
